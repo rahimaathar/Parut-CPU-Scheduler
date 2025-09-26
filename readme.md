@@ -1,4 +1,4 @@
-# Parut CPU Scheduler – CS 367 Project 1
+# Parut CPU Scheduler – CS 367 
 
 *Code available on request. Not posted due to Honor Code Policies.*
 
